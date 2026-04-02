@@ -15,6 +15,7 @@ Todavía estoy aprendiendo, pero disfruto cada problema
 que me hace buscar soluciones nuevas. Me gusta que el código
 tenga sentido, no solo que funcione.
 
+
 - 🎓 Estudiante en **UTN**
 - 🔍 Siempre aprendiendo algo nuevo
 - 📍 Argentina
@@ -34,6 +35,7 @@ tenga sentido, no solo que funcione.
 
 ---
 
+
 ## 📊 Estadísticas
 
 
@@ -44,6 +46,30 @@ tenga sentido, no solo que funcione.
 
 
 
+
+
+
+
+  
+
+
+
+
+---
+
+## 🏆 Trofeos
+
+
+
+
+  
+
+
+
+
+---
+
+## 🐍 Contribuciones
 
 
 
