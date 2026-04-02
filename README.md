@@ -1,17 +1,18 @@
 # Hola, soy Luciano 👋
 
-> Estudiante de Programación en UTN · Buscando mi primera pasantía IT 🇦🇷
+> Estudiante de Programación en UTN · IT 🇦🇷
 
 ## 🧑‍💻 Sobre mí
 
-```json
-{
-  "universidad": "UTN",
-  "carrera": "Tecnicatura en Programación",
-  "edad": 20,
-  "objetivo": "Primera pasantía en desarrollo de software",
-  "aprendiendo": ["React", ".NET / C#", "APIs REST"]
-}
+Soy Luciano, tengo 20 años y estudio Programación en la UTN.
+
+Todavía estoy aprendiendo un montón, pero disfruto cada problema
+que me hace buscar soluciones nuevas. Me gusta que el código
+tenga sentido, no solo que funcione.
+
+- 🎓 Estudiante en **UTN**
+- 🔍 Siempre aprendiendo algo nuevo
+- 📍 Argentina
 ```
 
 ## 🛠️ Tecnologías
