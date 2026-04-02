@@ -1,20 +1,25 @@
-# Hola, soy Luciano 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hola%2C+soy+Luciano+%F0%9F%91%8B;Estudiante+de+Programaci%C3%B3n+en+UTN;Buscando+mi+primera+pasant%C3%ADa+IT)](https://git.io/typing-svg)
 
-> Estudiante de Programación en UTN ·
+![visitas](https://komarev.com/ghpvc/?username=lucianoyague&color=blue&style=flat)
+
+---
 
 ## 🧑‍💻 Sobre mí
 
-Soy Luciano, tengo 20 años y estudio Programación en la UTN.
 
+
+
+Soy Luciano, tengo 20 años y estudio Programación en la UTN.
 
 Todavía estoy aprendiendo, pero disfruto cada problema
 que me hace buscar soluciones nuevas. Me gusta que el código
 tenga sentido, no solo que funcione.
 
-
 - 🎓 Estudiante en **UTN**
 - 🔍 Siempre aprendiendo algo nuevo
 - 📍 Argentina
+
+---
 
 ## 🛠️ Tecnologías
 
@@ -27,10 +32,28 @@ tenga sentido, no solo que funcione.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
 
 ## 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianoyague&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+
+
+
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+---
 
 ## 📫 Contacto
 
