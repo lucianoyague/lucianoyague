@@ -1,19 +1,20 @@
 # Hola, soy Luciano 👋
 
-> Estudiante de Programación en UTN · IT 🇦🇷
+> Estudiante de Programación en UTN ·
 
 ## 🧑‍💻 Sobre mí
 
 Soy Luciano, tengo 20 años y estudio Programación en la UTN.
 
-Todavía estoy aprendiendo un montón, pero disfruto cada problema
+
+Todavía estoy aprendiendo, pero disfruto cada problema
 que me hace buscar soluciones nuevas. Me gusta que el código
 tenga sentido, no solo que funcione.
+
 
 - 🎓 Estudiante en **UTN**
 - 🔍 Siempre aprendiendo algo nuevo
 - 📍 Argentina
-```
 
 ## 🛠️ Tecnologías
 
@@ -26,7 +27,7 @@ tenga sentido, no solo que funcione.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-
+|
 
 ## 📊 Estadísticas
 
@@ -35,4 +36,4 @@ tenga sentido, no solo que funcione.
 ## 📫 Contacto
 
 - 📧 **Email:** lucianoyague@icloud.com
-- 💼 **LinkedIn:** linkedin.com/in/lucianoyague
+- 💼 **LinkedIn:** linkedin.com/in/luciano-yague
