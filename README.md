@@ -57,18 +57,6 @@ tenga sentido, no solo que funcione.
 
 ---
 
-## 🏆 Trofeos
-
-
-
-
-  
-
-
-
-
----
-
 ## 🐍 Contribuciones
 
 
