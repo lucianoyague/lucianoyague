@@ -36,39 +36,6 @@ tenga sentido, no solo que funcione.
 ---
 
 
-## 📊 Estadísticas
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-  
-
-
-
-
----
-
-## 🐍 Contribuciones
-
-
-
-
-  
-
-
-
-
----
-
 ## 📫 Contacto
 
 - 📧 **Email:** lucianoyague@icloud.com
