@@ -15,7 +15,6 @@ Backend developer en formación | Java + Spring Boot | APIs REST | MySQL
 
 
 - 🎓 Estudiante en **UTN**
-- 🔍 Siempre aprendiendo algo nuevo
 - 📍 Argentina
 
 ---
