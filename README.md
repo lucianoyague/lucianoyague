@@ -11,9 +11,7 @@
 
 Soy Luciano, tengo 20 años y estudio Programación en la UTN.
 
-Todavía estoy aprendiendo, pero disfruto cada problema
-que me hace buscar soluciones nuevas. Me gusta que el código
-tenga sentido, no solo que funcione.
+Backend developer en formación | Java + Spring Boot | APIs REST | MySQL
 
 
 - 🎓 Estudiante en **UTN**
